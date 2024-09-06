@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #6e6e70;
+  background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/850d5888-f262-47d0-bb7b-34d03cd8d3ee/dbk7ro6-e704fd42-1159-4a30-9231-324475986be8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg1MGQ1ODg4LWYyNjItNDdkMC1iYjdiLTM0ZDAzY2Q4ZDNlZVwvZGJrN3JvNi1lNzA0ZmQ0Mi0xMTU5LTRhMzAtOTIzMS0zMjQ0NzU5ODZiZTguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.s1rQVnmRdqtBL5Qe0IfTM59F3Z0d5Nh97HEpRS7XZdw');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: relative;
+}
+
+
+h1 {
+  font-family: "Bungee Spice", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  font-size: 3rem;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-family: 'Arial', sans-serif;
+  color: #ebf2f5;
+  font-size: 2rem;
+  text-align: center;
+  text-shadow: 2px 2px 4px #053101;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+/* Estilos básicos para os botões */
+button {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: transparent;
+  padding: 160px;
+  border: none;
+  cursor: pointer;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 80px;
+  margin: 20px 0;
+  /* Adjust the margin as needed */
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 50px;
+}
+
+footer a {
+  color: #fff;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  position: relative;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: #7c808362;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Estilos específicos para cada botão */
+#atari {
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Atari-2600-Wood-4Sw-Set.png/1200px-Atari-2600-Wood-4Sw-Set.png');
+}
+
+#masterSystem {
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sega-Master-System-Set.png/800px-Sega-Master-System-Set.png');
+}
+
+#MegaDrive {
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sega-Mega-Drive-JP-Mk1-Console-Set.png/800px-Sega-Mega-Drive-JP-Mk1-Console-Set.png');
+}
+
+#Playstation {
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/PSX-Console-wController.png/1920px-PSX-Console-wController.png');
+}
+
+#pc {
+  background-image: url('https://i.ibb.co/dgnM3yZ/png-transparent-black-desktop-computer-set-illustration-desktop-computer-personal-computer-computer.png');
+}
+
