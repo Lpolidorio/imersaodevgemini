@@ -12,7 +12,7 @@ let consoles = [
         ]
     },
     {
-        titulo: "Master System",
+        titulo: "MasterSystem",
         descricao: "O Master System foi um console de videogame de 8 bits da Sega, lançado em 1986. Conhecido por seus jogos de alta qualidade gráfica para a época, como Sonic the Hedgehog, o Master System foi um grande sucesso no Brasil.",
         link: "https://pt.wikipedia.org/wiki/Master_System",
         jogos: [
@@ -24,7 +24,7 @@ let consoles = [
         ]
     },
     {
-        titulo: "Mega Drive",
+        titulo: "MegaDrive",
         descricao: "O Mega Drive (conhecido como Genesis nos Estados Unidos) foi um console de videogame de 16 bits da Sega, lançado em 1988. Concorrente direto do Super Nintendo, o Mega Drive se destacou por seus jogos de ação e por títulos como Sonic the Hedgehog e Mortal Kombat.",
         link: "https://pt.wikipedia.org/wiki/Mega_Drive",
         jogos: [
