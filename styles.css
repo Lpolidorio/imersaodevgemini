@@ -90,11 +90,11 @@ footer {
   background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Atari-2600-Wood-4Sw-Set.png/1200px-Atari-2600-Wood-4Sw-Set.png');
 }
 
-#masterSystem {
+#mastersystem {
   background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sega-Master-System-Set.png/800px-Sega-Master-System-Set.png');
 }
 
-#MegaDrive {
+#megadrive {
   background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sega-Mega-Drive-JP-Mk1-Console-Set.png/800px-Sega-Mega-Drive-JP-Mk1-Console-Set.png');
 }
 
@@ -106,3 +106,14 @@ footer {
   background-image: url('https://i.ibb.co/dgnM3yZ/png-transparent-black-desktop-computer-set-illustration-desktop-computer-personal-computer-computer.png');
 }
 
+#descricaoConsole {
+  position: absolute;
+  font-size: 1.2rem;
+  bottom: 100px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 20px;
+  border-radius: 5px;
+}
